@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rami Majadbeh</h1>
-<h3 align="center">A passionate computer engineering student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramibarakat&label=Profile%20views&color=0e75b6&style=flat" alt="ramibarakat" /> </p>
 
